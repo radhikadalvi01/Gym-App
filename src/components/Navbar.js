@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Stack } from '@mui/material';
-import { Modal } from "react-responsive-modal";
 
 import Logo from '../assets/images/Logo.png';
 
